@@ -19,7 +19,7 @@ Este é um rastreador da Estação Espacial Internacional (ISS) desenvolvido em 
 ## Instalação
 
 1. Clone o repositório em sua máquina local:
-git clone https://github.com/seu_usuario/nome_do_repositorio.git
+git clone https://github.com/jplimasil/ISS-tracker.git
 
 2. Instale as dependências necessárias:
 
@@ -32,11 +32,3 @@ O programa abrirá um arquivo de texto com as informações da ISS e exibirá um
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para relatar bugs ou propor melhorias. Se deseja contribuir com código, por favor abra um pull request.
-
-## Autor
-
-[Autor do código](https://github.com/jplimasil)
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
