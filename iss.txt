@@ -1,0 +1,11 @@
+Atualmente há 7 astronautas na ISS: 
+
+Jasmin Moghbeli - a bordo
+Andreas Mogensen - a bordo
+Satoshi Furukawa - a bordo
+Konstantin Borisov - a bordo
+Oleg Kononenko - a bordo
+Nikolai Chub - a bordo
+Loral O'Hara - a bordo
+
+Suas coordenadas atuais são: [-22.7592, -43.4511]
