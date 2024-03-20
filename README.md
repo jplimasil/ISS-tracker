@@ -4,6 +4,8 @@
 
 Este é um rastreador da Estação Espacial Internacional (ISS) desenvolvido em Python. O programa obtém dados em tempo real sobre a posição atual da ISS, incluindo o número de astronautas a bordo e suas coordenadas geográficas, e exibe essas informações em um mapa interativo.
 
+![Map Image](midia/map.gif)
+
 ## Funcionalidades
 
 - **Rastreamento da ISS:** Obtenha informações sobre a ISS, incluindo o número de astronautas a bordo e seus nomes.
